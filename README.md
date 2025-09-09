@@ -1,4 +1,4 @@
-# GameEngineFoundations
+# Assignment 1
 
 ### What Library did you use (SharpDX or OpenTK)?
 The library I used is OpenTK. I first had to install OpenTK under dependencies to ensure that OpenTK can be used in my application.
